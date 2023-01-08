@@ -1,7 +1,7 @@
 # World-Wide-Energy-Usage-R-Viz
 
 
-First Pass Animated Map 23-01-05
+Working Map
 
 
-![](https://github.com/zdiam/World-Wide-Energy-Usage-R-Viz/blob/main/Animated%20Plots%20Progress%20Track/First%20Pass%20Animated%20Map.gif)
+![](https://github.com/zdiam/World-Wide-Energy-Usage-R-Viz/blob/main/Animated%20Plots%20Progress%20Track/23-01-08%20Working.gif)
