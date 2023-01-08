@@ -80,8 +80,7 @@ mapBase<-ggplot(mapdata, aes(x=long,y=lat,group=group))+
   
 
 num_years <- max(mapdataBD$Year) - min(mapdataBD$Year) + 1  
-animate(mapBase, nframes = num_years, fps = 0.8)
+animate(mapBase, nframes = num_years, fps = 3, end_pause = 3)
     
-#mapBase
 
-#anim_save("..", animation = last_animation(), path ="C:\\..")
+anim_save("23-01-08 Final Working V1.1", animation = last_animation(), path ="C:\\..")
