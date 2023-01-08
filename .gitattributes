@@ -1,1 +1,3 @@
-*.ipynb linguist-vendored #hide jupyter notebooks as the file contains a large amount of generated text and overshadows other files
+*.ipynb linguist-vendored 
+
+#hide jupyter notebooks as the file contains a large amount of generated text and overshadows other files
