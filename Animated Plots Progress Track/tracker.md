@@ -22,7 +22,16 @@
 ![](https://github.com/zdiam/World-Wide-Energy-Usage-R-Viz/blob/main/Animated%20Plots%20Progress%20Track/23-01-07%20Working.gif)
 
 
-23-01-08 Working (Finalized V1.1)
+23-01-08 Working
 
 
 ![](https://github.com/zdiam/World-Wide-Energy-Usage-R-Viz/blob/main/Animated%20Plots%20Progress%20Track/23-01-08%20Working.gif)
+
+
+23-01-08 Working (Finalized V1.1)
+
+
+![](https://github.com/zdiam/World-Wide-Energy-Usage-R-Viz/blob/main/Animated%20Plots%20Progress%20Track/23-01-08%20Final%20Working%20V1.1)
+
+
+
